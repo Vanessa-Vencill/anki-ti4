@@ -1,0 +1,27 @@
+faction|name|ability|keywords|tags
+Arborec|Letani Behemoth|DEPLOY: When you use MITOSIS faction ability you may replace 1 of your infantry with 1 mech from your reinforcements instead |Sustain Damage, Deploy, Production 2, Planetary Sheild|units, mech
+Argent|Aerie Sentinel|This unit does not count against capacity if it is being transported or if it is in a space area with 1 or more of your ships that has capacity values. |Sustain Damage|units, mech
+Letnev|Dunlain Reaper|DEPLOY: At the start of a round of ground combat, you may spend 2 resources to replace 1 of your infantry in that combat with 1 mech. |Sustain Damage, Deploy|units, mech
+Saar|Scavenger Zeta|DEPLOY: After you gain control of a planet, you may spend 1 trade good to place 1 mech on that planet. |Sustain Damage, Deploy|units, mech
+Muaat|Ember Colossus|When you use your STAR FORGE faction ability in this system or an adjacent system, you may place 1 infantry from your reinforcements with this unit. |Sustain Damage|units, mech
+Hacan|Pride of Kenara|This planet's card may be traded as part of a transaction; if you do, move all of your units from this planet to another planet you control. |Sustain Damage|units, mech
+Empyrean|Watcher|You may remove this unit from a system that contains or is adjacent to another player's units to cancel an action card played by that player. |Sustain Damage|units, mech
+Sol|ZS Thunderbolt M2|DEPLOY: After you use your ORBITAL DROP faction ability you may spend 3 resources to place 1 mech on that planet. |Sustain Damage, Deploy|units, mech
+Creuss|Icarus Drive|After any player activates a system, you may remove this unit from the game board to place or move a Creuss wormhole token into this system. |Sustain Damage|units, mech
+L1Z1X|Annihilator|While not participating in ground combat, this unit can use its BOMBARDMENT ability on planets in its system as if it were a ship. |Sustain Damage, Bombardment 8|units, mech
+Mahact|Starlancer|After a player whose command token is in your fleet pool activates this system, you may spend their token from your fleet pool to end their turn; they gain that token.|Sustain Damage|units, mech
+Mentak|Moll Terminus|Other players' ground forces on this planet cannot use SUSTAIN DAMAGE. |Sustain Damage|units, mech
+Naalu|Iconoclast Omega|Other players cannot use ANTI-FIGHTER BARRAGE against your units in this system.|Sustain Damage|units, mech
+Naaz-Rohka|Eidolon|If this unit is in the space area of the active system at the start of a space combat, flip this card. Combat 2x6.|Sustain Damage|units, mech
+Naaz-Rohka|Z-Grav Eidolon|If this unit is in the space area of the active system, it is also a ship. At the end of a space battle in the active system, flip this card. Combat 2x8||units, mech
+Nekro|Mordred|If this unit is in the space area of the active system, it is also a ship. At the end of a space battle in the active system, flip this card. |Sustain Damage|units, mech
+Nomad|Quantum Manipulator|While this unit is in a space area during combat, you may use its SUSTAIN DAMAGE ability to cancel a hit that is produced against your ships in this system. |Sustain Damage|units, mech
+Sardaak|Valkyrie Exoskeleton|After this unit uses its SUSTAIN DAMAGE ability during Ground Combat, it produces 1 hit against your opponent's ground forces on this planet. |Sustain Damage|units, mech
+Titans|Hecatoncheires|DEPLOY: When you would place a PDS on a planet, you may place 1 mech and 1 infantry on that planet instead. |Sustain Damage, Deploy|units, mech
+Jol-Nar|Shield Paling|Your infantry on this planet are not affected by your FRAGILE faction ability. |Sustain Damage|units, mech
+Vuil’Raith|Reanimator|When your infantry on this planet are destroyed, place them on your faction sheet; those units are captured. |Sustain Damage|units, mech
+Winnu|Reclaimer|After you resolve a tactical action where you gained control of this planet, you may place 1 PDS or 1 Space Dock from your reinforcements on this planet. |Sustain Damage|units, mech
+Xxcha|Indomitus|You may use this unit's SPACE CANNON against ships that are in adjacent systems. |Sustain Damage, Space Cannon 8|units, mech
+Yin|Moyin’s Ashes|DEPLOY: When you use your INDOCTRINATION faction ability, you may spend 1 additional influence to replace your opponent's unit with 1 mech instead of 1 infantry. |Sustain Damage, Deploy|units, mech
+Yssaril|Blackshade Infiltrator|DEPLOY: After you use your STALL TACTICS faction ability, you may place 1 mech on a planet you control. |Sustain Damage, Deploy|units, mech
+Keleres|Omnipiares|Other players must spend 1 influence to commit ground forces to the planet that contains this unit. |Sustain Damage|units, mech

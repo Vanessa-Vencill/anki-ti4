@@ -1,0 +1,27 @@
+faction|name|combat|move|capacity|ability|keywords|tags
+Arborec|Duha Menaimon|2x7|1|5|After you activate this system, you may produce up to 5 units in this system. |Sustain Damage|flagship, units
+Argent|Quetzecoatl |2x7|1|3|Other players cannot use SPACE CANNON against your ships in this system.|Sustain Damage|flagship, units
+Letnev|Arc Secundus|2x5|1|3|Other players' units in this system lose PLANETARY SHIELD. At the start of each space combat round, repair this ship .|Sustain Damage, Bombardment 3x5|flagship, units
+Saar|Son of Ragh|2x5|1|3|None|Sustain Damage, Anit-Fighter Barrage 4x6|flagship, units
+Keleres|Artemiris|2x7|1|6|Other players must spend 2 influence to activate the system that contains this ship|Sustain Damage|flagship, units
+Muaat|The Inferno|2x5|1|3|ACTION: Spend 1 token from your strategy pool to place 1 cruiser in this unit's system.|Sustain Damage|flagship, units
+Hacan|Wrath of Kenara|2x7|1|3|After you roll a die during space combat in this system, you may spend 1 trade good to apply +1 to the result. |Sustain Damage|flagship, units
+Empyrean|Dynamo|2x5|1|3|After any player's unit in this system or an adjacent system uses SUSTAIN DAMAGE, you may spend 2 influence to repair that unit. |Sustain Damage|flagship, units
+Sol|Genesis|2x5|1|12|At the end of the status phase, place 1 infantry from your reinforcements in this system's space area. |Sustain Damage|flagship, units
+Creuss|Hil Colish|1x5|1|3|This ship's system contains a delta wormhole. During movement, this ship may move before or after your other ships.|Sustain Damage|flagship, units
+L1Z1X|[0.0.1]|2x5|1|5|During a space combat, hits produced by this ship and by your dreadnoughts in this system must be assigned to non-fighter ships if able. |Sustain Damage|flagship, units
+Mahact|Arvicon Rex|2x5|1|3|During combat against an opponent whose command token is not in your fleet pool, apply +2 to the results of this unit's combat rolls. |Sustain Damage|flagship, units
+Mentak|Fourth Moon|2x7|1|3|Other players' ships in this system cannot use SUSTAIN DAMAGE. |Sustain Damage|flagship, units
+Naalu|Matriarch|2x9|1|6|During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area. |Sustain Damage|flagship, units
+Naaz-Rokha|Visz el Vir|2x9|1|4|Your mechs in this system roll 1 additional die during combat ||flagship, units
+Nekro|The Alistor|2x9|1|3|At the start of a space combat, choose any number of your ground forces in this system to participate in that combat as if they were ships. |Sustain Damage|flagship, units
+Nomad|Memoria I|2x7|1|3|You may treat this unit as if it were adjacent to systems that contain one or more of your mechs.|Sustain Damage, Anti-Fighter Barrage 3x8|flagship, units
+Nomad|Memoria II|2x5|2|6|Tech Requirement BGY. You may treat this unit as if it were adjacent to systems that contain one or more of your mechs.|Sustain Damage, Anti-Fighter Barrage 3x5|flagship, units
+Sardaak|C’Morran N’orr|2x6|1|3|Apply +1 to the result of each of your other ship's combat rolls in this system. |Sustain Damage|flagship, units
+Titans|Ouranos|2x7|1|3|DEPLOY: After you activate a system that contains 1 or more of your PDS, you may replace 1 of those PDS with this unit.|Sustain Damage, Deploy|flagship, units
+Jol-Nar|J.N.S. Hylarim|2x6|1|3|When making a combat roll for this ship, each result of a 9 or 10, before applying modifiers, produces 2 additional hits. |Sustain Damage|flagship, units
+Vuil’Raith|The Terror Between|2x5|1|3|Capture all other non-structure units that are destroyed in this unit's system, including your own.|Sustain Damage, Bombardment 1x5|flagship, units
+Winnu|Salai Sai Corian|N*x7|1|3|When this unit makes a combat roll, it rolls a number of dice equal to the number of your opponent's non-fighter ships in this system. |Sustain Damage|flagship, units
+Xxcha|Loncarra Ssodu|2x7|1|3|You may use this unit's SPACE CANNON against ships that are in adjacent systems.|Sustain Damage, Space Cannon 3x5|flagship, units
+Yin|Van Huge|2x9|1|3|When this ship is destroyed, destroy all ships in this system. |Sustain Damage|flagship, units
+Yssaril|Y’sia Y’ssrila|2x5|2|3|This ship can move through systems that contain other player's ships. |Sustain Damage|flagship, units
